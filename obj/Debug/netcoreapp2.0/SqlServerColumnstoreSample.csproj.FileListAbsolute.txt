@@ -1,0 +1,13 @@
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.deps.json
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.runtimeconfig.json
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.runtimeconfig.dev.json
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.dll
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/bin/Debug/netcoreapp2.0/SqlServerColumnstoreSample.pdb
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.csproj.AssemblyReference.cache
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.AssemblyInfoInputs.cache
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.AssemblyInfo.cs
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.csproj.CoreCompileInputs.cache
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.dll
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.pdb
+/home/fahim/coding_projects/Focl_Latest/C# Database connection/SqlServerColumnstoreSample/obj/Debug/netcoreapp2.0/SqlServerColumnstoreSample.genruntimeconfig.cache
